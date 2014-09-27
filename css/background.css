@@ -11,5 +11,10 @@ body{
     font-size:250%;
     border-style: double;
 	border-color: white;
-	color: white
+	color: white;
+}
+
+#firstParagraph{
+	color: white;
+	text-align: center;
 }
