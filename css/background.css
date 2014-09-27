@@ -10,4 +10,6 @@ body{
     text-align: center;
     font-size:250%;
     border-style: double;
+	border-color: white;
+	color: white
 }
