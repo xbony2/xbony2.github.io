@@ -5,3 +5,9 @@ See: License. Code is under a MIT license.
 body {
     background-image: url("img/small_steps.png");
 }
+
+#title{
+    text-align: center;
+    font-size:250%;
+    border-style: double;
+}
