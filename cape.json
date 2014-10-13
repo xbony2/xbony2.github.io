@@ -1,9 +1,10 @@
 {
   "Dev": {
-    "capeUrl": "http://www.myurl.com/DEV_CAPE.png",
+    "capeUrl": "http://xbony2.github.io/nc_cape.png",
     "users": [
       "xbony2",
-      "Notch"
+      "Notch",
+      "Player854"
     ]
   }
 }
