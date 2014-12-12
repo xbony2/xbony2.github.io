@@ -6,7 +6,7 @@ body {
     background-image: url("congruent_outline.png");
 }
 
-#title {
+.title {
     text-align: center;
     font-size:250%;
     border-style: double;
