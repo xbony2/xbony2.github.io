@@ -2,11 +2,11 @@
 See: License. Code is under a MIT license.
 */
 
-body{
+body {
     background-image: url("congruent_outline.png");
 }
 
-#title{
+#title {
     text-align: center;
     font-size:250%;
     border-style: double;
@@ -14,7 +14,7 @@ body{
 	color: white;
 }
 
-#para1{
+p {
 	color: white;
 	text-align: center;
 }
