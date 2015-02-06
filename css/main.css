@@ -24,7 +24,7 @@ td {
 }
 
 table {
-	border: 1;
+	border: 1px solid white;
 	width: 100%;
 	border-color: white;
 }
