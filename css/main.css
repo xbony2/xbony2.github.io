@@ -25,4 +25,5 @@ table, tr, td {
 	color: white;
 	border-color: white;
 	border-collapse: collapse;
+	table-layout: fixed;
 }
