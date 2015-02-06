@@ -14,16 +14,16 @@ body {
 	color: white;
 }
 
-p {
+/*p {
 	color: white;
 	text-align: center;
-}
+}*/
 
 td {
 	color: white;
 }
 
-table {
+table, tr, td {
 	border: 1px solid white;
 	width: 100%;
 	border-color: white;
