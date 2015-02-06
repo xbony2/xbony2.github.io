@@ -18,3 +18,12 @@ p {
 	color: white;
 	text-align: center;
 }
+
+td {
+	color: white;
+}
+
+table {
+	border: 1;
+	width: 100%;
+}
