@@ -12,13 +12,10 @@
   "newbs": {
     "capeUrl": "http://xbony2.github.io/poop_cape.png",
     "users": [
-      "CubeWrench202"  
+      "CubeWrench202",
+      "direwolf20",
+      "Chocohead",
+      "joehillssays"
     ]
-  },
-  "aholes": {
-  	"capeUrl": "http://xbony2.github.io/angry_poop_cape.png",
-  	"users": [
-  		"BeGladNoOneIsHere"
-  	]
   }
 }
