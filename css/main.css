@@ -4,6 +4,7 @@ See: License. Code is under a MIT license.
 
 body {
     background-image: url("congruent_outline.png");
+    color: white;
 }
 
 .title {
@@ -11,18 +12,15 @@ body {
     font-size:250%;
     border-style: double;
 	border-color: white;
-	color: white;
 }
 
-p {
-	color: white;
+.center {
 	text-align: center;
 }
 
-table, tr, td {
+.sexy_table {
 	border: 1px solid white;
 	width: 100%;
-	color: white;
 	border-color: white;
 	border-collapse: collapse;
 	table-layout: fixed;

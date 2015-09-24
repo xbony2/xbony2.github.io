@@ -1,6 +1,6 @@
 {
   "Dev": {
-    "capeUrl": "http://xbony2.github.io/nc_cape.png",
+    "capeUrl": "http://xbony2.github.io/resources/capes/nc_cape.png",
     "users": [
       "xbony2",
       "Shedar",
@@ -9,15 +9,15 @@
       "dmf444"
     ]
   },
-  "newbs": {
-    "capeUrl": "http://xbony2.github.io/poop_cape.png",
+  "nubs": {
+    "capeUrl": "http://xbony2.github.io/resources/capes/poop_cape.png",
     "users": [
       "CubeWrench202",
       "Krystals"
     ]
   },
   "Guy who just deserves it :P": {
-  	"capeUrl": "http://xbony2.github.io/earth_games_cape.png",
+  	"capeUrl": "http://xbony2.github.io/resources/capes/earth_games_cape.png",
   	"users": [
   		"HorrorCaster",
   		"HorrorCaster01"
