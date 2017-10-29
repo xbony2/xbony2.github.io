@@ -9,7 +9,7 @@
       "dmf444"
     ]
   },
-  "nubs": {
+  "Poop cape": {
     "capeUrl": "http://xbony2.github.io/resources/capes/poop_cape.png",
     "users": [
       "CubeWrench202",
@@ -17,7 +17,13 @@
       "Ellpeck"
     ]
   },
-  "Guy who just deserves it :P": {
+  "Angry poop cape": {
+    "capeUrl": "http://xbony2.github.io/master/resources/capes/angry_poop_cape.png",
+    "users": [
+      "Developaws"
+    ]
+  },
+  "Earth Games": {
   	"capeUrl": "http://xbony2.github.io/resources/capes/earth_games_cape.png",
   	"users": [
   		"HorrorCaster",
