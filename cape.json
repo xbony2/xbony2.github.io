@@ -1,34 +1,35 @@
 {
   "Dev": {
-    "capeUrl": "http://xbony2.github.io/resources/capes/nc_cape.png",
+    "capeUrl": "https://xbony2.github.io/resources/capes/nc_cape.png",
     "users": [
-      "xbony2",
-      "Shedar",
-      "Pyrolusite",
-      "Zuxelus",
-      "dmf444"
+      "bc3d8433-f032-4c19-8ae7-602d74f00dfd",
+      "1953d896-c1ff-4b3d-b77e-ed6928782d92",
+      "ced86eac-dbc0-46f1-9311-58471be741a9",
+      "d61a6c06-a3f1-495e-a32e-4c9a1df98b5a"
     ]
   },
   "Poop cape": {
-    "capeUrl": "http://xbony2.github.io/resources/capes/poop_cape.png",
+    "capeUrl": "https://xbony2.github.io/resources/capes/poop_cape.png",
     "users": [
-      "CubeWrench202",
-      "SorceressLucy",
-      "Ellpeck"
+      //"CubeWrench202",
+      //"SorceressLucy",
+      "3f9f4a94-95e3-40fe-8895-e8e3e84d1468"
     ]
   },
   "Angry poop cape": {
-    "capeUrl": "http://xbony2.github.io/resources/capes/angry_poop_cape.png",
+    "capeUrl": "https://xbony2.github.io/resources/capes/angry_poop_cape.png",
     "users": [
-      "Developaws",
-      "axle2005"
+      //"Developaws",
+      "9fd0b662-ee46-40be-b77d-0b37b37e86af"
     ]
   },
-  "Earth Games": {
-  	"capeUrl": "http://xbony2.github.io/resources/capes/earth_games_cape.png",
+  /*"Earth Games": {
+  	"capeUrl": "https://xbony2.github.io/resources/capes/earth_games_cape.png",
   	"users": [
   		"HorrorCaster",
   		"HorrorCaster01"
   	]
-  }
+  },
+  */
+  "def72598-9f0c-4aba-b000-6cf8c5f817e0": "https://xbony2.github.io/resources/capes/nc_cape.png"  
 }
